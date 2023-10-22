@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: SMTP.GOOGLE.COM
+mx: zxccgvs7cl2t7zshqka2izde66qz5f72jrfuyzfx3hodhqj6ylra.mx-verification.GOOGLE.COM
+max_age: 604800
